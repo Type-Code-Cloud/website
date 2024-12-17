@@ -33,10 +33,6 @@ a img{
   color: #fff;
 }
 
-.android-search-box .mdl-textfield__input {
-  color: rgba(0, 0, 0, 0.87);
-}
-
 .android-header .mdl-menu__container {
   z-index: 50;
   margin: 0 !important;
